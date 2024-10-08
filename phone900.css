@@ -1,0 +1,29 @@
+.navbar{
+    display: flex;
+    flex-direction: column;
+}
+.left{
+    padding: 10px;
+}
+.left p{
+    font-size: 20px;
+}
+.middle{
+    padding: 5px 0px;
+}
+.middle ul li a {
+    margin: 0px 40px;
+}
+.navImg img {
+    margin: 5px 20px;
+}
+.right a {
+    margin: 10px 12px;
+    font-size: 20px;
+}
+.right img {
+    margin-left: 37px;
+}
+.h{
+    font-size: 50px;
+}

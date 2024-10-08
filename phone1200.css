@@ -1,0 +1,17 @@
+.middle ul li a{
+    margin: 0px 20px;
+}
+.navImg img {
+    margin: 0px 5px;
+}
+.right img {
+    margin-left: 15px;
+}
+.right img {
+    width: 24px;
+}
+
+.right a {
+    margin: 0px 12px;
+    font-size: 15px;
+}
